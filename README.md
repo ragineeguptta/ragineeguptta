@@ -4,9 +4,9 @@
 
 <p align="center" width="100%"> <img src="https://studio.code.org/shared/images/courses/logo_tall_dance-2019.gif" alt="ragineeguptta" /> </p>
 
-- 🔭 I’m currently working on **.Net Core MVC, PHP**
+- 🔭 I’m currently working on **.Net, Web API**
 
-- 🌱 I’m currently learning **Python, .NET6**
+- 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on **Artificial Intelligence**
 
