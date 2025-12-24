@@ -1,8 +1,8 @@
-<img style=" width:100%; height:200px;" src="https://wallpapercave.com/wp/wp1828925.png" alt="ragineeguptta" />
 <h1 align="center">Hi 👋, I'm Raginee Gupta</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
 <p align="center" width="100%"> <img src="https://studio.code.org/shared/images/courses/logo_tall_dance-2019.gif" alt="ragineeguptta" /> </p>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=ragineeguptta&label=PROFILE+VIEWS alt=profilecounter/> </p>
 
 - 🔭 I’m currently working on **.Net, Web API**
 
@@ -27,6 +27,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ragineeguptta&show_icons=true&locale=en&layout=compact" alt="ragineeguptta" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ragineeguptta&show_icons=true&locale=en" alt="ragineeguptta" /></p>
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ragineeguptta&show_icons=true&locale=en" alt="ragineeguptta" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ragineeguptta&" alt="ragineeguptta" /></p>
