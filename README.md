@@ -46,15 +46,13 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ragineeguptta&show_icons=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragineeguptta&layout=compact" height="160" />
-</p>
+![Raginee's GitHub stats](https://github-readme-stats.vercel.app/api?username=ragineeguptta&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ragineeguptta&layout=compact)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ragineeguptta" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=ragineeguptta)
 
+
+---
 
 ### ✨ Quote I Believe In
 
