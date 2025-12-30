@@ -46,10 +46,11 @@
 
 ### 📊 GitHub Stats
 
-![Raginee's GitHub stats](https://github-readme-stats.vercel.app/api?username=ragineeguptta&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ragineeguptta&layout=compact)
+![Stats](https://camo.githubusercontent.com/?url=https://github-readme-stats.vercel.app/api?username=ragineeguptta&show_icons=true)
+![Langs](https://camo.githubusercontent.com/?url=https://github-readme-stats.vercel.app/api/top-langs/?username=ragineeguptta&layout=compact)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ragineeguptta)
+![Streak](https://camo.githubusercontent.com/?url=https://streak-stats.demolab.com?user=ragineeguptta)
+
 
 
 ---
