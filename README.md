@@ -47,15 +47,14 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ragineeguptta&show_icons=true&theme=tokyonight" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragineeguptta&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ragineeguptta&show_icons=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragineeguptta&layout=compact" height="160" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ragineeguptta&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=ragineeguptta" />
 </p>
 
----
 
 ### ✨ Quote I Believe In
 
