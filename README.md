@@ -44,16 +44,7 @@
 
 ---
 
-### 📊 GitHub Stats
 
-![Stats](https://camo.githubusercontent.com/?url=https://github-readme-stats.vercel.app/api?username=ragineeguptta&show_icons=true)
-![Langs](https://camo.githubusercontent.com/?url=https://github-readme-stats.vercel.app/api/top-langs/?username=ragineeguptta&layout=compact)
-
-![Streak](https://camo.githubusercontent.com/?url=https://streak-stats.demolab.com?user=ragineeguptta)
-
-
-
----
 
 ### ✨ Quote I Believe In
 
